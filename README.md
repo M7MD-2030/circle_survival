@@ -5,9 +5,6 @@
         <a href="https://github.com/MoHHamMed-2030/circle_survival/releases/tag/v0.0.5">
             <img src="mac.png" width=200>
         </a>
-        <a href="">
-            <img src="windows.png" width=200>
-        </a>
     </div>
 </div>
 
